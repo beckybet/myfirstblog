@@ -25,7 +25,7 @@ SECRET_KEY = 'f^3x^ga@9bcarmi51@90wt&@o@e2-7)0q=egmqc^=q4ip4c@(m'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['beckybet.pythonanywhere.com']
+ALLOWED_HOSTS = ['beckybet.pythonanywhere.com', 'localhost']
 
 
 # Application definition
